@@ -1,0 +1,39 @@
+{
+  "key": "BOMB-ILUPHANY-CORE-2025",
+  "name": "Bomb party",
+  "description": "Instancia de bomb party evento de Iluphany 2025",
+  "minecraftVersion": "1.21",
+  "fabricVersion": "0.16.0",
+  "backgroundUrl": "background.png",
+  "mods": [
+    {
+      "name": "Fabric API",
+      "fileName": "fabric-api-0.102.0+1.21.jar",
+      "downloadUrl": "https://thiago03125.github.io/instances.hithub.io/downloads/fabric-api-0.102.0+1.21.jar",
+      "version": "0.102.0",
+      "required": true
+    },
+    {
+      "name": "Iluphany voice chat settings",
+      "fileName": "iluphanyvoicesettings-1.0.0.jar",
+      "downloadUrl": "https://thiago03125.github.io/instances.hithub.io/downloads/iluphanyvoicesettings-1.0.0.jar",
+      "version": "1.0.0",
+      "required": true
+    },
+    {
+      "name": "Voice chat",
+      "fileName": "voice char fabric-1.21-2.6.10.jar",
+      "downloadUrl": "https://thiago03125.github.io/instances.hithub.io/downloads/voicechat-fabric-1.21.1-2.6.10.jar",
+      "version": "2.6.10",
+      "required": false
+    }
+  ],
+  "resourcePacks": [
+    {
+      "name": "Faithful 32x",
+      "fileName": "Faithful-32x-1.21.zip",
+      "downloadUrl": "https://www.curseforge.com/minecraft/texture-packs/faithful-32x/download/7398288"
+    }
+    ]
+
+}

@@ -1,0 +1,15 @@
+{
+  "repository": "https://github.com/Thiago03125/manifest",
+  "version": "1.0.0",
+  "instances": [
+    {
+      "key": "BOMB-ILUPHANY-CORE-2025",
+      "name": "Bomb party",
+      "description": "Instancia de bomb party evento de Iluphany 2025",
+      "configUrl": "config.json",
+      "backgroundUrl": "bomb-party/backround.png",
+      "thumbnailUrl": "bomb-party/thumbnail.png"
+    }
+
+    ]
+}
