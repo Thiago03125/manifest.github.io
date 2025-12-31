@@ -4,7 +4,7 @@
   "description": "Instancia de bomb party evento de Iluphany 2025",
   "minecraftVersion": "1.21",
   "fabricVersion": "0.16.0",
-  "backgroundUrl": "https://raw.githubusercontent.com/Thiago03125/manifest/main/instances/bomb-party/background.png",
+  "backgroundUrl": "https://raw.githubusercontent.com/Thiago03125/manifest.github.io/main/instances/bomb-party/background.png",
   "mods": [
     {
       "name": "Fabric API",
@@ -38,3 +38,4 @@
   "shaderPacks": [],
   "configFiles": []
 }
+
