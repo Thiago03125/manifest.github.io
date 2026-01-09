@@ -28,15 +28,10 @@
       "required": true
     }
   ],
-  "resourcePacks": [
-    {
-      "name": "Faithful 32x",
-      "fileName": "Faithful-32x-1.21.zip",
-      "downloadUrl": "https://www.curseforge.com/minecraft/texture-packs/faithful-32x/download/7398288"
-    }
-  ],
+  "resourcePacks": [],
   "shaderPacks": [],
   "configFiles": []
 }
+
 
 
